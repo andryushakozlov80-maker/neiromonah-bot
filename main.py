@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 TELEGRAM_TOKEN = "8515311616:AAFB2CKRdXvD6XM0xaUCWcAhIF-acCu3__Y"
 HEYGEN_API_KEY = "c344227bf182450889004b93f8006fd7"
 AVATAR_ID = "3f56a997304e41bc8bd73ab33fc8fd71"
-VOICE_ID = "b384d8c4-c29e-44c9-97f6-b57ad82e8e46"
+VOICE_ID = "c344227bf182450889004b93f8006fd7
 
 SCRIPT = "Ты живёшь чужую жизнь. И где-то внутри ты это знаешь. Я — Нейро Монах. Медитация, Рейки, древние знания. Астрология. Руны. Human Design. Не магия — карта твоей души. Хочешь понять кто ты — подписывайся."
 
