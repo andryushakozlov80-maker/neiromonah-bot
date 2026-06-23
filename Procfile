@@ -1,1 +1,1 @@
-worker: python neiromonah_bot.py
+worker:python neiromonah_bot.py
